@@ -1,0 +1,12 @@
+[
+    {"id": 1, "nombre": "Crash Bandicoot", "desc": "Juego plataformero, niveles dificiles","cantidad": 1, "precio": 1200, "img": "img/Crash.jpg"},
+    {"id": 2, "nombre": "Mortal Kombat X", "desc": "Luchas con los mejores graficos","cantidad": 1, "precio": 1500, "img": "img/mortal.jpg"},
+    {"id": 3, "nombre": "Pac Man", "desc": "Juego plataformero, niveles basicos","cantidad": 1, "precio": 1570, "img": "img/pacman.jpg"},
+    {"id": 4, "nombre": "Dragon Ball Xenoverse", "desc": "Vive la experiencia dragon ball","cantidad": 1, "precio": 1000, "img": "img/dragonball.jpg"},
+    {"id": 5, "nombre": "Naruto Ninja Storm 4", "desc": "La historia de Naruto","cantidad": 1, "precio": 1200, "img": "img/naruto.jpg"},
+    {"id": 6, "nombre": "Shingeki Final Attack", "desc": "Eren Jeager vuelve en formato gamer...","cantidad": 1, "precio": 1200, "img": "img/shingeki.jpg"},
+    {"id": 7, "nombre": "League of Legends", "desc": "No compres esto por tu bien","cantidad": 1, "precio": 1400, "img": "img/league.jpg"},
+    {"id": 8, "nombre": "Call Of Duty Warzone", "desc": "Dispara como nunca","cantidad": 1, "precio": 1200, "img": "img/callduty.jpg"},
+    {"id": 9, "nombre": "Fifa 2019", "desc": "Juego de futbol","cantidad": 1, "precio": 1400, "img": "img/fifa.jpg"},
+    {"id": 10, "nombre": "Fornite", "desc": "Battle Royale","cantidad": 1, "precio": 1200, "img": "img/fornite.jpg"}
+]

@@ -1,3 +1,4 @@
+// Crear carrito
 export function procesarPedido() {
     carrito.forEach((prod) => {
       const contenedorCompra = document.querySelector('#contenedorCompra')
